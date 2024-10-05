@@ -1,5 +1,6 @@
 ## Hi there 👋
 My name is Chris Nordrum. I'm a web developer based in Calgary, Canada. I'm currently learning front-end development at SAIT.
+>Contact me on: [Instagram](https://www.instagram.com/nordrumdesigns/)
 <!--
 **crvsty/crvsty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
